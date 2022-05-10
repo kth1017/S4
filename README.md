@@ -11,10 +11,10 @@ spring, jpa, thymeleaf / S3 복습용 기초적인 게시판 페이지 pratice /
 - db는 h2, 조작은 orm인 jpa 사용
 
 # 요약
-준비
+@준비
 - ovenapp.io로 간단한 게시판 기획
 - draw.io로 erd 작성(member, post, comment, category) 
 
-코드
+@코드
 - back component : 규모가 작기에 service는 분리하지 않고 entity, repository, controller
 - view : thymeleaf 사용 
