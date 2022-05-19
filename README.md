@@ -13,6 +13,7 @@ spring, jpa, thymeleaf / S3 복습용 기초적인 게시판 페이지 pratice /
 # 요약
 @준비
 - ovenapp.io로 간단한 게시판 기획
+- rdb 사용을 위해 스키마 구성
 - draw.io로 erd 작성(member, post, comment, category) 
 
 @코드
